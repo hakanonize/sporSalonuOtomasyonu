@@ -1,0 +1,5 @@
+C:\Users\hakan\source\repos\SporSalonuOtomasyonu\Data\bin\Debug\Data.dll
+C:\Users\hakan\source\repos\SporSalonuOtomasyonu\Data\bin\Debug\Data.pdb
+C:\Users\hakan\source\repos\SporSalonuOtomasyonu\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\hakan\source\repos\SporSalonuOtomasyonu\Data\obj\Debug\Data.dll
+C:\Users\hakan\source\repos\SporSalonuOtomasyonu\Data\obj\Debug\Data.pdb
